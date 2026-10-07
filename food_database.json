@@ -1,0 +1,434 @@
+[
+    {
+        "food_name": "Classic Cheeseburger",
+        "description": "Beef patty with cheese, lettuce, and tomato on a sesame bun.",
+        "base_qty": "100g",
+        "calories": 303,
+        "protein": 15,
+        "carbs": 30,
+        "fat": 14,
+        "ingredients": [
+            "ground beef",
+            "cheddar cheese",
+            "wheat bun",
+            "lettuce",
+            "tomato",
+            "salt",
+            "sesame seeds"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten",
+            "sesame"
+        ]
+    },
+    {
+        "food_name": "Margherita Pizza",
+        "description": "Classic Italian pizza with tomato sauce and fresh mozzarella.",
+        "base_qty": "100g",
+        "calories": 266,
+        "protein": 11,
+        "carbs": 33,
+        "fat": 10,
+        "ingredients": [
+            "wheat flour",
+            "water",
+            "yeast",
+            "tomato paste",
+            "mozzarella cheese",
+            "salt",
+            "olive oil"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ]
+    },
+    {
+        "food_name": "Grilled Chicken Salad",
+        "description": "Healthy salad with grilled chicken breast and mixed greens.",
+        "base_qty": "100g",
+        "calories": 130,
+        "protein": 18,
+        "carbs": 4,
+        "fat": 5,
+        "ingredients": [
+            "chicken breast",
+            "lettuce",
+            "spinach",
+            "olive oil",
+            "lemon juice",
+            "black pepper"
+        ],
+        "allergens": []
+    },
+    {
+        "food_name": "Peanut Butter Smoothie",
+        "description": "Rich and creamy smoothie made with milk and peanut butter.",
+        "base_qty": "100ml",
+        "calories": 180,
+        "protein": 8,
+        "carbs": 20,
+        "fat": 9,
+        "ingredients": [
+            "cow milk",
+            "peanut butter",
+            "banana",
+            "honey",
+            "ice"
+        ],
+        "allergens": [
+            "dairy",
+            "peanuts"
+        ]
+    },
+    {
+        "food_name": "Spaghetti Carbonara",
+        "description": "Roman pasta dish with eggs, cheese, and cured pork.",
+        "base_qty": "100g",
+        "calories": 315,
+        "protein": 12,
+        "carbs": 35,
+        "fat": 14,
+        "ingredients": [
+            "spaghetti",
+            "eggs",
+            "pecorino romano",
+            "pancetta",
+            "black pepper"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy",
+            "eggs"
+        ]
+    },
+    {
+        "food_name": "Chicken Tikka Masala",
+        "description": "Roasted marinated chicken chunks in a spiced curry sauce.",
+        "base_qty": "100g",
+        "calories": 145,
+        "protein": 10,
+        "carbs": 7,
+        "fat": 9,
+        "ingredients": [
+            "chicken",
+            "yogurt",
+            "heavy cream",
+            "tomato paste",
+            "garam masala",
+            "garlic",
+            "ginger"
+        ],
+        "allergens": [
+            "dairy"
+        ]
+    },
+    {
+        "food_name": "Beef Burrito",
+        "description": "Wrapped flour tortilla filled with beef, rice, beans, and cheese.",
+        "base_qty": "100g",
+        "calories": 205,
+        "protein": 9,
+        "carbs": 26,
+        "fat": 7,
+        "ingredients": [
+            "wheat tortilla",
+            "ground beef",
+            "white rice",
+            "black beans",
+            "cheddar cheese",
+            "salsa"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ]
+    },
+    {
+        "food_name": "Vegetable Pad Thai",
+        "description": "Stir-fried rice noodle dish with peanuts, eggs, and veggies.",
+        "base_qty": "100g",
+        "calories": 180,
+        "protein": 6,
+        "carbs": 25,
+        "fat": 7,
+        "ingredients": [
+            "rice noodles",
+            "eggs",
+            "tofu",
+            "peanuts",
+            "bean sprouts",
+            "tamarind paste",
+            "soy sauce"
+        ],
+        "allergens": [
+            "eggs",
+            "peanuts",
+            "soy"
+        ]
+    },
+    {
+        "food_name": "California Sushi Roll",
+        "description": "Inside-out sushi roll with imitation crab and avocado.",
+        "base_qty": "100g",
+        "calories": 130,
+        "protein": 4,
+        "carbs": 28,
+        "fat": 1.5,
+        "ingredients": [
+            "sushi rice",
+            "nori seaweed",
+            "imitation crab",
+            "avocado",
+            "cucumber",
+            "sesame seeds"
+        ],
+        "allergens": [
+            "fish",
+            "sesame",
+            "gluten",
+            "soy"
+        ]
+    },
+    {
+        "food_name": "Caesar Salad with Chicken",
+        "description": "Romaine lettuce, croutons, and chicken with creamy dressing.",
+        "base_qty": "100g",
+        "calories": 190,
+        "protein": 11,
+        "carbs": 6,
+        "fat": 14,
+        "ingredients": [
+            "romaine lettuce",
+            "chicken breast",
+            "parmesan cheese",
+            "wheat croutons",
+            "egg yolk",
+            "anchovies",
+            "olive oil"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten",
+            "eggs",
+            "fish"
+        ]
+    },
+    {
+        "food_name": "Falafel Wrap",
+        "description": "Middle Eastern wrap with deep-fried chickpea balls.",
+        "base_qty": "100g",
+        "calories": 220,
+        "protein": 7,
+        "carbs": 29,
+        "fat": 9,
+        "ingredients": [
+            "pita bread",
+            "chickpeas",
+            "tahini",
+            "cucumber",
+            "tomato",
+            "garlic",
+            "parsley"
+        ],
+        "allergens": [
+            "gluten",
+            "sesame"
+        ]
+    },
+    {
+        "food_name": "Fish and Chips",
+        "description": "Battered and fried fish served with potato fries.",
+        "base_qty": "100g",
+        "calories": 240,
+        "protein": 11,
+        "carbs": 22,
+        "fat": 12,
+        "ingredients": [
+            "cod fish",
+            "wheat flour",
+            "potatoes",
+            "vegetable oil",
+            "baking powder",
+            "salt"
+        ],
+        "allergens": [
+            "fish",
+            "gluten"
+        ]
+    },
+    {
+        "food_name": "Blueberry Protein Pancakes",
+        "description": "High-protein breakfast pancakes with berries.",
+        "base_qty": "100g",
+        "calories": 160,
+        "protein": 12,
+        "carbs": 18,
+        "fat": 4,
+        "ingredients": [
+            "oats",
+            "whey protein powder",
+            "blueberries",
+            "eggs",
+            "almond milk"
+        ],
+        "allergens": [
+            "dairy",
+            "eggs",
+            "tree nuts"
+        ]
+    },
+    {
+        "food_name": "Mushroom Risotto",
+        "description": "Creamy Northern Italian rice dish cooked with broth.",
+        "base_qty": "100g",
+        "calories": 175,
+        "protein": 4,
+        "carbs": 21,
+        "fat": 8,
+        "ingredients": [
+            "arborio rice",
+            "mushrooms",
+            "parmesan cheese",
+            "butter",
+            "vegetable broth",
+            "white wine",
+            "onion"
+        ],
+        "allergens": [
+            "dairy"
+        ]
+    },
+    {
+        "food_name": "BBQ Pulled Pork Sandwich",
+        "description": "Slow-cooked shredded pork with BBQ sauce on a bun.",
+        "base_qty": "100g",
+        "calories": 260,
+        "protein": 13,
+        "carbs": 28,
+        "fat": 10,
+        "ingredients": [
+            "pork shoulder",
+            "brioche bun",
+            "bbq sauce",
+            "brown sugar",
+            "cabbage",
+            "mayonnaise"
+        ],
+        "allergens": [
+            "gluten",
+            "eggs",
+            "dairy"
+        ]
+    },
+    {
+        "food_name": "Shrimp Fried Rice",
+        "description": "Wok-fried rice with shrimp, veggies, and soy sauce.",
+        "base_qty": "100g",
+        "calories": 165,
+        "protein": 8,
+        "carbs": 23,
+        "fat": 5,
+        "ingredients": [
+            "white rice",
+            "shrimp",
+            "eggs",
+            "peas",
+            "carrots",
+            "soy sauce",
+            "sesame oil"
+        ],
+        "allergens": [
+            "shellfish",
+            "eggs",
+            "soy",
+            "sesame"
+        ]
+    },
+    {
+        "food_name": "Lentil Soup",
+        "description": "Hearty and warming soup made with brown lentils and vegetables.",
+        "base_qty": "100g",
+        "calories": 75,
+        "protein": 5,
+        "carbs": 12,
+        "fat": 1,
+        "ingredients": [
+            "brown lentils",
+            "vegetable broth",
+            "carrots",
+            "celery",
+            "onion",
+            "garlic",
+            "olive oil"
+        ],
+        "allergens": []
+    },
+    {
+        "food_name": "Eggs Benedict",
+        "description": "Poached eggs and ham on an English muffin with hollandaise.",
+        "base_qty": "100g",
+        "calories": 250,
+        "protein": 11,
+        "carbs": 14,
+        "fat": 17,
+        "ingredients": [
+            "eggs",
+            "english muffin",
+            "canadian bacon",
+            "butter",
+            "lemon juice",
+            "paprika"
+        ],
+        "allergens": [
+            "eggs",
+            "gluten",
+            "dairy"
+        ]
+    },
+    {
+        "food_name": "Chocolate Lava Cake",
+        "description": "Decadent dessert with a gooey, molten chocolate center.",
+        "base_qty": "100g",
+        "calories": 410,
+        "protein": 5,
+        "carbs": 42,
+        "fat": 26,
+        "ingredients": [
+            "dark chocolate",
+            "butter",
+            "sugar",
+            "eggs",
+            "wheat flour",
+            "cocoa powder"
+        ],
+        "allergens": [
+            "dairy",
+            "eggs",
+            "gluten"
+        ]
+    },
+    {
+        "food_name": "Avocado Toast with Egg",
+        "description": "Toasted bread topped with smashed avocado and a fried egg.",
+        "base_qty": "100g",
+        "calories": 210,
+        "protein": 8,
+        "carbs": 15,
+        "fat": 14,
+        "ingredients": [
+            "whole wheat bread",
+            "avocado",
+            "eggs",
+            "olive oil",
+            "salt",
+            "black pepper",
+            "lemon juice"
+        ],
+        "allergens": [
+            "gluten",
+            "eggs"
+        ]
+    }
+]
